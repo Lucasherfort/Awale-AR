@@ -1,3 +1,3 @@
 # Awale-AR
 
-Version 2017.4.40f1
+Version 2018.4.39f1
